@@ -1,0 +1,5 @@
+.venv
+__pycache
+.idea
+test_subscription.txt
+config.py
